@@ -1,0 +1,95 @@
+    1: sadads
+    2: 
+    3: asd
+    4: 
+    5: dsasdadsa
+    6: 
+    7: 
+    8: 
+    9: 
+   10: 
+   11: 
+   12: 
+   13: sdasdasdasasdadsa
+   14: 
+   15: asddsa
+   16: 
+   17: dsasdasad
+   18: 
+   19: asdsdaasd
+   20: 
+   21: sadsda
+   22: 
+   23: sd
+   24: 
+   25: sdsddsd
+   26: 
+   27: d
+   28: 
+   29: d
+   30: 
+   31: d
+   32: 
+   33: d
+   34: 
+   35: d
+   36: 
+   37: d
+   38: 
+   39: d
+   40: 
+   41: d
+   42: 
+   43: d
+   44: 
+   45: d
+   46: 
+   47: d
+   48: 
+   49: d
+   50: 
+   51: d
+   52: 
+   53: d
+   54: 
+   55: dddddd
+   56: 
+   57: ddd
+   58: 
+   59: ddd
+   60: 
+   61: dd
+   62: 
+   63: d
+   64: 
+   65: 
+   66: 
+   67: d
+   68: 
+   69: d
+   70: 
+   71: d
+   72: 
+   73: d
+   74: 
+   75: d
+   76: 
+   77: d
+   78: 
+   79: d
+   80: 
+   81: d
+   82: 
+   83: d
+   84: 
+   85: dsk;fl;dsk;dsl;dfsk
+   86: 
+   87: ///
+   88: 
+   89: /s/
+   90: 
+write to output file
+   24:         os.write(1    , strToPrint.encode()) # write to fd1 (standard output)
+   25:         lineNum += 1
+   26:         
+   27: 
